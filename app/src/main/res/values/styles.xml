@@ -1,0 +1,67 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.DesignDemo">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Base.Theme.DesignDemo" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#6d4c41</item>
+        <item name="colorPrimaryDark">#0ba823</item>
+        <item name="colorAccent">#FF4081</item>
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
+
+    <style name="chocolateToolBarTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+    <!--<style name="chocolateToolBarTheme" parent="Base.Widget.AppCompat.Light.ActionBar">-->
+        <!--<item name="actionBarSize">20dp</item>-->
+       <item name="actionOverflowButtonStyle">@style/chocolateActionOverflowButtonStyle</item>
+    </style>
+
+    <style name="chocolateActionOverflowButtonStyle" parent="Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:src">@drawable/actionbar_add_icon</item>
+
+    </style>
+
+    <style name="FabStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/fab_compat_margin</item>
+        <item name="android:layout_gravity">bottom|end</item>
+        <item name="android:src">@drawable/ic_add_black</item>
+        <item name="borderWidth">0dp</item>
+        <item name="elevation">6dp</item>
+        <item name="pressedTranslationZ">12dp</item>
+        <item name="rippleColor">@android:color/white</item>
+    </style>
+
+    <style name="Theme.Splash" parent="android:Theme.Black.NoTitleBar.Fullscreen">
+        <!--<item name="android:windowBackground">@drawable/welcome</item>-->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <!-- 菜单ImageView的样式 -->
+    <style name="MenuItemImageViewStyle">
+        <item name="android:layout_width">24dip</item>
+        <item name="android:layout_height">24dip</item>
+        <item name="android:layout_marginRight">15dip</item>
+    </style>
+
+    <!-- 菜单TextView的样式 -->
+    <style name="MenuItemTextViewStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#0b751e</item>
+        <item name="android:drawablePadding">10dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!-- 加载滚动条样式 -->
+    <style name="loading">
+        <item name="android:indeterminate">true</item>
+        <item name="android:indeterminateDrawable">@drawable/progressloading</item>
+        <item name="android:indeterminateDuration">1000</item>
+        <item name="android:indeterminateOnly">true</item>
+    </style>
+
+</resources>

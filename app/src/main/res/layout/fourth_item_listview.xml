@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+     >
+
+    <CheckBox
+        android:id="@+id/candycb"
+        android:focusable="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"/>
+
+    <TextView
+        android:id="@+id/candytitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="糖果"
+        android:textColor="#666666"
+        android:textSize="16sp"
+        />
+
+    <TextView
+        android:id="@+id/candydesc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/candytitle"
+        android:layout_marginTop="10dp"
+        android:maxLines="2"
+        android:minLines="1"
+        android:text="好吃的糖果"
+        android:layout_toLeftOf="@id/candycb"
+        android:layout_alignParentLeft="true"
+        android:textColor="#999999"
+        android:textSize="16sp"
+        />
+    <TextView
+        android:id="@+id/candytime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/candydesc"
+        android:layout_marginTop="4dp"
+        android:singleLine="true"
+        android:text="2015-8-8"
+        android:textColor="#999999"
+        android:textSize="12sp"
+        />
+
+    <TextView
+        android:id="@+id/candyprice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/candydesc"
+        android:layout_marginTop="4dp"
+        android:layout_alignParentRight="true"
+        android:singleLine="true"
+        android:padding="1dp"
+        android:background="#2ed667"
+        android:text="RMB:20.00"
+        android:textColor="#333333"
+        android:textSize="12sp"
+        />
+</RelativeLayout>

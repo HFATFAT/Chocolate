@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Chocolateeeeeee</string>
+
+    <string name="main_tab_name_news">巧克力</string>
+    <string name="main_tab_name_tweet">吃了</string>
+    <string name="main_tab_name_quick">快速</string>
+    <string name="main_tab_name_question">问答</string>
+    <string name="main_tab_name_my">我</string>
+    <string name="main_tab_name_explore">音乐</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="more">More</string>
+    <string name="settings">Settings</string>
+
+    <string name="action_search">查找</string>
+    <string name="action_add">添加</string>
+    <string name="menu_group_chat">发起群聊</string>
+    <string name="menu_feedback">意见反馈</string>
+    <string name="menu_addfriend">添加朋友</string>
+    <string name="menu_scan">扫一扫</string>
+    <string name="tab_contact">通信录</string>
+    <string name="tab_found">发现</string>
+    <string name="tab_me">我</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="loading">加载中…</string>
+    <string name="loading_no_more">已加载全部</string>
+
+    <string name="error_view_no_data">暂无内容</string>
+
+
+    <string-array name="cat_names">
+        <item>George</item>
+        <item>Zubin</item>
+        <item>Carlos</item>
+        <item>Frank</item>
+        <item>Charles</item>
+        <item>Simon</item>
+        <item>Fezra</item>
+        <item>Henry</item>
+        <item>Schuster</item>
+        <item>George</item>
+        <item>Zubin</item>
+        <item>Carlos</item>
+        <item>Frank</item>
+        <item>Charles</item>
+        <item>Simon</item>
+        <item>Fezra</item>
+        <item>Henry</item>
+        <item>Schuster</item>
+    </string-array>
+
+
+
+    <string name="lorem_ipsum">12号，你带我去吃寿司，其实我已经很久没有吃寿司了，熊记鸡粥行前点，你点单的时候我总会想是生的还是熟的，你也会问我可不可以吃(∩_∩)。点多了点点，没有吃完，就已经很饱了，寿司都几好吃的，好像是我第一次吃鱼生，吃鱼生我还是有点抗拒。第一次喝那种波子汽水，好喝。吃完过海珠桥，沿沿江路往西从人民南路回去，应该有10000步以上啦。你准备了猪肉脯给我，在人民北路买了个玩具给倬睿，好多谢你，感动，倬睿一定会好喜欢的。从罗勒种子长到这么大，希望长得大大的，时间这么快，又想慢一点！9号傍晚，Penny做了咖喱鸡给我吃3，鸡肉都是鸡腿肉来的好吃∩_∩，有薯仔胡萝卜洋葱…好吃，你应该吃多几块鸡肉，哈。吃我好味的咖喱就去国强粥粉面吃牛河、粥、肠粉。粥很多料，肠粉很好吃，滑有米浆味道，酱油不错。炒牛河都够镬气好吃，再多点葱就更好啦。每次同你去吃都吃到好饱(∩_∩)。12号，你带我去吃寿司，其实我已经很久没有吃寿司了，熊记鸡粥行前点，你点单的时候我总会想是生的还是熟的，你也会问我可不可以吃(∩_∩)。点多了点点，没有吃完，就已经很饱了，寿司都几好吃的，好像是我第一次吃鱼生，吃鱼生我还是有点抗拒。第一次喝那种波子汽水，好喝。吃完过海珠桥，沿沿江路往西从人民南路回去，应该有10000步以上啦。你准备了猪肉脯给我，在人民北路买了个玩具给倬睿，好多谢你，感动，倬睿一定会好喜欢的。从罗勒种子长到这么大，希望长得大大的，时间这么快，又想慢一点！9号傍晚，Penny做了咖喱鸡给我吃3，鸡肉都是鸡腿肉来的好吃∩_∩，有薯仔胡萝卜洋葱…好吃，你应该吃多几块鸡肉，哈。吃我好味的咖喱就去国强粥粉面吃牛河、粥、肠粉。粥很多料，肠粉很好吃，滑有米浆味道，酱油不错。炒牛河都够镬气好吃，再多点葱就更好啦。每次同你去吃都吃到好饱(∩_∩)。</string>
+
+</resources>
